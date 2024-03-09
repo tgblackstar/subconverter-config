@@ -41,5 +41,13 @@ IP-CIDR,129.226.107.244/32,no-resolve
 
 #联通
 DOMAIN-KEYWORD,unicom
+DOMAIN-KEYWORD,10010
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,unicom.com
+
+# 内容：taobao 淘宝
+DOMAIN-KEYWORD,taobao
+DOMAIN-SUFFIX,taobao.com
+
+
+
