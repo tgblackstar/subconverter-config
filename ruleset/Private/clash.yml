@@ -51,6 +51,7 @@ dns:
     - "*.ntp.org.cn"
     - +.pool.ntp.org
     - time1.cloud.tencent.com
+    - baidu.com
     - music.163.com
     - "*.music.163.com"
     - "*.126.net"
